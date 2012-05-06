@@ -1,0 +1,7 @@
+body {margin:0; width:100%;}
+video {position:absolute; left:-5000px;}
+#content {margin:0 auto; width:50%;}
+
+.break {clear:both; display:block;}
+
+#CVcontrols-video a {margin-right:5px;}
